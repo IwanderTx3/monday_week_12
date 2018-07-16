@@ -1,0 +1,71 @@
+#menu{
+    background-color: #52A7FA;
+    color: white;
+    display: flex;
+    padding: 10px;
+}
+
+#menu .pickle{
+    font-size: 36px;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+#menu .plum{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+#menu div{
+    padding: 15px;
+}
+
+#article{
+    width: 85%;
+    background-color: #DDDEE0;
+    color:black;
+    margin-top: 10pt;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 12pt;
+    padding: 10px;
+}
+
+#article .article-title{
+    font-size: 25pt;
+    color: black;
+    padding-bottom: 10pt;
+}
+
+#post{
+    width: 85%;
+    background-color: white;
+    color:black;
+    margin-top: 10pt;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 12pt;
+    padding: 10px;
+}
+
+#post h1{
+    font-size: 20pt;
+    color:#0465C0;
+    }
+
+.poststats{
+    display: flex;
+    font-size: 10pt;
+    background-color: #F39018;
+    color: white;
+    padding: 5px;
+    padding-right: 10px;
+    }
+
+.poststats div{
+    margin-right: 25px;
+}
